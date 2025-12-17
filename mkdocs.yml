@@ -1,12 +1,16 @@
-site_name: EW-Origin
+site_name: Battery Passport VC Schema
 
 nav:
     - Introduction: index.md
-    - Installation: installation.md
-    - Architecture: architecture.md
-    - Packages: packages.md
-    - User guides:
-    - API:
+    - Schema Overview: README.md
+    - Schema Categories:
+        - Battery Carbon Footprint: BatteryCarbonFootprint/BatteryCarbonFootprint.json
+        - Battery Materials and Composition: BatteryMaterialsAndComposition/BatteryMaterialsAndComposition.json
+        - Circularity and Resource Efficiency: CircularityAndResourceEfficiency/CircularityAndResourceEfficiency.json
+        - Identifiers and Product Data: IdentifiersAndProductData/IdentifiersAndProductData.json
+        - Performance and Durability: PerformanceAndDurability/PerformanceAndDurability.json
+        - Supply Chain Due Diligence: SupplyChainDueDiligence/SupplyChainDueDiligence.json
+        - Symbols, Labels and Documentation of Conformity: SymbolsLabelsAndDocumentationOfConformity/SymbolsLabelsAndDocumentationOfConformity.json
 
 theme: material
 
