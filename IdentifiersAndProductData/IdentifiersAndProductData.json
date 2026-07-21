@@ -1,7 +1,7 @@
 {
     "$metadata": {
         "uris": {
-            "jsonLdContext": "https://raw.githubusercontent.com/impactility/battery-passport-vc-schema/main/IdentifiersAndProductData/IdentifiersAndProductData.jsonld"
+            "jsonLdContext": "https://raw.githubusercontent.com/energywebfoundation/battery-passport-vc-schema/master/IdentifiersAndProductData/IdentifiersAndProductData.jsonld"
         },
         "version": "1.0",
         "type": "IdentifiersandProductData"
